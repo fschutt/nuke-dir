@@ -1,0 +1,10 @@
+[package]
+name = "nuke-dir"
+version = "0.1.0"
+edition = "2021"
+license = "MIT"
+description = "Single-function crate to delete a directory by removing subdirectories and files first, to work around FS issues"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
